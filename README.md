@@ -1,4 +1,4 @@
 # hello-world2
 My second repository
 
-Hello wordld, it's David here. 
+Hello world, it's David here. 
